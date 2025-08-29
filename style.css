@@ -1,11 +1,11 @@
 :root {
 --text-color: #DBE4EF;
---card-front-color: #88076c;
---card-back-color: #f689fa;
+--card-front-color: #306fb8;
+--card-back-color: #5b1a5e;
 }
 
 body {
-background:url('img/bg-desktop.webp');
+background:url(flower-8820894_1280.png);
 font-family: Bai Jamjuree;
 }
 
@@ -102,7 +102,7 @@ margin-top: 0,5rem;
 @media (max-width: 560px) {
 
 body {
-background: url('img/bd-mobile.webp');
+background: url(flower-8820894_1280.png)
 }
 
 .cartao {
